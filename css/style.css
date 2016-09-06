@@ -1,0 +1,25 @@
+body {
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    background-image: url('../images/mario background.jpg');
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h3 {
+    margin: 50px;
+    color: white;
+    text-shadow: 3px 3px black;
+    font-size: 2.5em;
+}
+
+#logo {
+    height: 10vh;
+}
